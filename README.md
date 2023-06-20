@@ -1,15 +1,20 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Helou%20There!&height=120&section=header&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Helou%20There!&height=120&section=header&animation=fadeIn&fontColor=ffffff"/>
+</p>
+
+<p align="center">
+  <img src="/profile/App Preview.jpeg" height="300"/>
 </p>
 
 ## ❖ About Our App 👀
 This is a **real-time** chat application with features like _chat rooms_, _private messaging_, and _file sharing_.
+[Link To Our App](https://chatapp-next.netlify.app/)
 ## ❖ Tech-Stack 🖥️ 
-- Frontend: Nexjs,React,Tailwind,DaisyUi
+- Frontend: React,Tailwind,DaisyUi
 - Backend: ChatEngine,Firebase
 
-## ❖ Running Our App
+## ❖ Running Our App 🏃
 ```<bash>
 git clone https://github.com/Amazing-Chatapp/ChatApp.git 
 
