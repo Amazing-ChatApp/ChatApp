@@ -47,6 +47,7 @@ const Chat = ({ user }) => {
             userSecret={user.uid}
             height="87vh"
             renderIsTyping={(typers) => <IsTyping />}
+            renderIceBreaker={(chat) => {}}
           />
         </div>
       ) : (
