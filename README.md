@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="/profile/App Preview.jpeg" height="300"/>
+  <img src="/public/App Preview.jpeg" height="300"/>
 </p>
 
 ## ❖ About Our App 👀
